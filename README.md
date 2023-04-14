@@ -1,5 +1,3 @@
 # GPTVision-plugin
 
-You can run this file by doing:
-
-node server.js
+forking to learn more about GPTVision and innovate with intercommucation ai 
